@@ -22,6 +22,7 @@
     <string name="alpha">Alpha</string>
     <string name="animate">Animate</string>
     <string name="basic_map_demo_label">Basic Map</string>
+    <string name="crash_map_demo_label">Crash Map</string>
     <string name="basic_map_demo_description">Launches a map.</string>
     <string name="buildings">Buildings</string>
     <string name="camera_demo_label">Camera</string>

@@ -63,6 +63,10 @@
         <activity
             android:name=".BasicMapDemoActivity"
             android:label="@string/basic_map_demo_label"/>
+
+        <activity
+            android:name=".CrashMapDemoActivity"
+            android:label="@string/basic_map_demo_label"/>
         <activity
             android:name=".CameraDemoActivity"
             android:label="@string/camera_demo_label"/>
